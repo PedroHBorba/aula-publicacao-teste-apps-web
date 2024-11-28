@@ -1,5 +1,5 @@
 
-##**Report: Static Code Analysis with ESLint**## 
+##Report: Static Code Analysis with ESLint## 
 **Version 1.0**  
 After exploring ESLint, I implemented the first rule: `semi: ["error", "always"]`. This rule enforces the use of semicolons at the end of statements. During testing, ESLint flagged numerous issues in the code, primarily due to missing semicolons, resulting in multiple errors. Version 1.0 provided a basic implementation and identified some initial code issues.  
 
